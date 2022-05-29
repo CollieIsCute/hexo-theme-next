@@ -1,0 +1,3 @@
+[submodule "source/lib/pjax"]
+	path = source/lib/pjax
+	url = git@github.com:theme-next/theme-next-pjax.git
